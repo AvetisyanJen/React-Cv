@@ -1,0 +1,47 @@
+.section1 {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url("/public/Imgs/sky.jpg.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+
+}
+
+.imgWrapper {
+    display: flex;
+    height: 250px;
+
+    flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 30px 58px rgba(119, 84, 156, 0.788), 0 10px 10px rgba(136, 66, 136, 0.22);
+
+}
+
+
+.dateBirth {
+
+    color: #DEC9B0;
+    letter-spacing: 1.5px;
+}
+
+.homeInfo{
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    color: #F9FEFF;
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+.title1{
+    box-shadow:0px 30px 58px rgba(113, 72, 155, 0.788),0 10px 10px rgba(136, 66, 136, 0.22);
+}
+.title2{
+    box-shadow:0px 30px 58px rgba(152, 59, 245, 0.788),0 10px 10px rgba(136, 66, 136, 0.22);
+}

@@ -1,0 +1,133 @@
+.section2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    /* align-items: center; */
+    padding-top: 60px;
+    background: #95569E;
+   
+   
+}
+.education1{
+    width: 40%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-image: url("/public/Imgs/work.png");
+    object-position: center;
+    background-size: cover;
+    
+    
+}
+.education2{
+    width: 100%;
+    height: 100%;
+    background-color:   rgba(178, 111, 219, 0.7);
+    text-align: center;
+    color: rgb(10, 15, 80);
+    /* text-shadow: 0 1px 0; */
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+.education2 div{
+    margin: 7px;
+    padding: 15px;
+}
+.education2 h2{
+    padding-top: 18px
+
+}
+.work1{
+    width: 40%;
+    height: 50vh;
+    background-image: url("/public/Imgs/job.jpg");
+    background-repeat: no-repeat;
+    object-position: center;
+    background-size: cover;
+
+}
+.work2{
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(178, 111, 219, 0.7);
+    text-align: center;
+    color: rgb(6, 11, 80);
+    font-weight: bold;
+    letter-spacing: 1.5px;
+
+}
+.work2 div{
+    margin: 7px;
+    padding: 15px;
+
+}
+.work2 h2{
+    padding-top: 18px
+
+}
+.skills{
+    width: 400px;
+    background-color: #AE80C3;
+    height: 300px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+   
+    
+
+}
+.skills button{
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    height:40px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+
+    
+}
+.butt1{
+background-color: #77528f;
+color: #FFFAF2;
+
+}
+.butt2{
+    background-color: #844c8f;
+    color: #323232;
+
+}
+.skills div{
+    width: 50%;
+    height: 100%;
+    font-family: mon;
+  
+   
+}
+.skills ul{
+  padding-top: 20px;
+  margin-left: 20px;
+}
+
+.lang{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    color: #3D1D30;
+
+}
+.lang h1{
+    padding-bottom: 20px;
+    box-shadow:0px 30px 58px rgba(196, 164, 228, 0.788),0 10px 10px rgba(136, 66, 136, 0.22);
+    
+}
+.lang p{
+    font-weight: 700;
+    box-shadow:0px 30px 58px rgba(74, 35, 112, 0.788),0 10px 10px rgba(136, 66, 136, 0.22);
+}

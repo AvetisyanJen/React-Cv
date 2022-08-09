@@ -1,0 +1,51 @@
+.header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+}
+.headerchange{
+    background-color: #051226;
+  
+}
+.logo{
+    color: #C8C8C8;
+    font-size: 30px;
+    text-transform:uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.navul{
+    display:flex;
+    font-weight: bold;
+    
+}
+.navLi{
+    list-style:none;
+    margin-right: 40px;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    font-size:25px;
+}
+li a{
+    text-decoration:none;
+    color: white;
+}
+li a:hover{
+    border-bottom: 5px solid rgb(91, 9, 168);
+}
+
+.gitimg{
+    height: 35px;
+    width: 38px;
+    
+}
+.gitimg a:hover{
+    border-bottom: 5px solid rgb(91, 9, 168); 
+}
