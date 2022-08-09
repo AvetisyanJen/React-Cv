@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Cv/static/css/main.e99c6ed1.css",
+    "main.js": "/React-Cv/static/js/main.47b30b96.js",
+    "static/js/787.11baedba.chunk.js": "/React-Cv/static/js/787.11baedba.chunk.js",
+    "static/media/work.png": "/React-Cv/static/media/work.f794a51849c414a463ad.png",
+    "static/media/sky.jpg.jpg": "/React-Cv/static/media/sky.jpg.10d05d307082bcd36d95.jpg",
+    "static/media/jen.jpg": "/React-Cv/static/media/jen.77e3e1815d79f9b3b226.jpg",
+    "static/media/git.png": "/React-Cv/static/media/git.4b39480e0866bd2007d5.png",
+    "static/media/job.jpg": "/React-Cv/static/media/job.0c2231327fbe3f6f8c05.jpg",
+    "index.html": "/React-Cv/index.html",
+    "main.e99c6ed1.css.map": "/React-Cv/static/css/main.e99c6ed1.css.map",
+    "main.47b30b96.js.map": "/React-Cv/static/js/main.47b30b96.js.map",
+    "787.11baedba.chunk.js.map": "/React-Cv/static/js/787.11baedba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99c6ed1.css",
+    "static/js/main.47b30b96.js"
+  ]
+}
